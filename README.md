@@ -134,17 +134,19 @@ In light of this trend, Bellabeat is encouraged to expand its product line by in
 
 To promote these time devices effectively, Bellabeat should consider launching targeted advertising campaigns that emphasize the manifold benefits of their wellness watches. These benefits include the capacity to track daily steps, acting as a motivational tool that encourages users to interrupt sedentary periods and engage in more frequent movement. This enhanced physical activity not only aids in the burning of calories but also contributes to improved overall fitness.
 
-By providing a detailed and compelling narrative around the advantages of their wellness watches, Bellabeat can position themselves as a leader in the market, addressing the pressing issue of sedentary behavior while promoting a healthier, more active lifestyle for their customers.
+By providing a detailed and compelling narrative around the advantages of their wellness watches, Bellabeat can position themselves as a leader in the market, addressing the pressing issue of sedentary behaviour while promoting a healthier, more active lifestyle for their customers.
 
 ![image](https://github.com/AngelGabby/Bella-Beat-Analysis/assets/127565857/6bb09b97-12d7-41e3-99a0-94980fa379fe)
 
-![image](https://github.com/AngelGabby/Bella-Beat-Analysis/assets/127565857/aa2b77a1-87df-41d5-bac7-7d3f3d13ad51)
+![image](https://github.com/AngelGabby/Bella-Beat-Analysis/assets/127565857/e1a217e3-e1e0-4eec-8a33-f075835399d8)
+
+![image](https://github.com/AngelGabby/Bella-Beat-Analysis/assets/127565857/fbf488cf-009d-4f53-abd2-892f2b8f2b57)
 
 
 
 ##  HIGH-LEVEL RECOMMENDATIONS
 
-Recognizing the widespread issue of sedentary behavior and the substantial amount of time that most Americans spend online, it is imperative for Bellabeat to strategize its marketing efforts effectively. This entails a multifaceted approach:
+Recognizing the widespread issue of sedentary behaviour and the substantial amount of time that most Americans spend online, it is imperative for Bellabeat to strategize its marketing efforts effectively. This entails a multifaceted approach:
 
 1. **Educational Advertising**: Bellabeat should allocate resources towards creating informative and engaging advertisements aimed at its current customer base. These advertisements should emphasize the myriad benefits of the wellness watch, with a particular focus on how it can help users adopt and maintain healthier habits. By highlighting the positive impact of their product, Bellabeat can enhance customer loyalty and drive further engagement.
 
